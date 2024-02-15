@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gesael Gonzalez</h1>
 <h3>I am a backend developer I like to program in python and I live in Colombia</h3>
 
-- 🔭 I’m currently working on [own projects](https://github.com/RuneHinta/Bot-Hearwood-Online-Yolov7)
+- 🔭 I’m currently working on [Heartwood Online Bot](https://github.com/RuneHinta/Bot-Hearwood-Online-Yolov7)
 
 - 🌱 I’m currently learning **Django,JavaScrips,Machine Learning**
 
